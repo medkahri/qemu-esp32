@@ -7,3 +7,7 @@
 In this project we run esp32 on qemu which runs in a docker container
 
 
+Requirements :
+Docker desktop
+esp idf freertos
+visual studio
